@@ -12,6 +12,17 @@ Nothing yet.
 
 ---
 
+## [0.5.0] - 2026-07-27
+
+### Added
+
+- Introduced the Organization section.
+- Defined the organizational operating model.
+- Defined the organization's operating capabilities.
+- Defined the repository organization.
+
+---
+
 ## [0.4.0] - 2026-07-27
 
 ### Added
