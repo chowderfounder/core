@@ -12,6 +12,18 @@ Nothing yet.
 
 ---
 
+## [0.4.0] - 2026-07-27
+
+### Added
+
+- Introduced the Roadmap section.
+- Defined the organization's current direction.
+- Defined the capability development roadmap.
+- Defined organizational initiatives.
+- Defined major organizational milestones.
+
+---
+
 ## [0.3.0] - 2026-07-27
 
 ### Added
