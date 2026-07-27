@@ -12,6 +12,19 @@ Nothing yet.
 
 ---
 
+## [0.3.0] - 2026-07-27
+
+### Added
+
+- Introduced the Engineering section.
+- Added engineering documentation.
+- Defined the organization's engineering principles.
+- Defined the software architecture approach.
+- Defined source control standards.
+- Defined the knowledge management approach.
+
+---
+
 ## [0.2.0] - 2026-07-23
 
 ### Added
